@@ -1,6 +1,5 @@
 
 using System.Collections.Generic;
-
 namespace AhorcadORT.Models
 {
     public class Juego
@@ -10,7 +9,7 @@ namespace AhorcadORT.Models
         public Usuario JugadorActual ;
 
 
-private void LlenarListaPalabras()
+public void LlenarListaPalabras()
 {
     ListaPalabras = new List<Palabra>();
 
@@ -64,13 +63,13 @@ private void LlenarListaPalabras()
 }
    public void InicializarJuego(string nombreUsuario, int dificultadSeleccionada)
     {
-        JugadorActual = new Usuario();
+        Usuario JugadorActual = new Usuario();
         JugadorActual.Nombre = nombreUsuario;
         JugadorActual.CantidadIntentos = 0;
     }
 
 
-    private string CargarPalabra(int dificultadBuscada)
+    public string CargarPalabra(int dificultadBuscada)
     {
         List<Palabra> listaFiltrada = new List<Palabra>();
 
