@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AhorcadORT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6948166322cfca8c2a5178a248d214137eb6da34")]
 [assembly: System.Reflection.AssemblyProductAttribute("AhorcadORT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AhorcadORT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
