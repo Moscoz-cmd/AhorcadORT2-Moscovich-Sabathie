@@ -2,8 +2,8 @@ namespace AhorcadORT.Models
 {
 public class Usuario
 {
-    string nombre;
-    int cantidadIntentos;
+   public string Nombre;
+  public int CantidadIntentos;
 
 
 }

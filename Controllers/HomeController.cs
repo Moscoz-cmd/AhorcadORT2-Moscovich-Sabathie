@@ -20,13 +20,19 @@ public class HomeController : Controller
     }   
     [HttpPost]public IActionResult Comenzar(string username, int dificultad)
     {
+        Juego Ahorcado = new Juego();
+        Ahorcado.InicializarJuego(username,dificultad);
+
+// Guardar en Session el objeto Ahorcado
+
         ViewBag.Username = username;
         ViewBag.Palabra = palabra; 
 
         return View("Juego");
     }
     [HttpPost] public IActionResult FinJuego(int intentos) {
-        Juego.
+        // Traigo de session el Ahorcado
+    
         return RedirectToAction("Index");
 
 }}

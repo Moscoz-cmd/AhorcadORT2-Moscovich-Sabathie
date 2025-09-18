@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\49550979\\Desktop\\tp07 ahorcado\\AhorcadORT2-Moscovich-Sabathie-1\\AhorcadORT.csproj": {}
+    "Z:\\AhorcadORT\\AhorcadORT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\49550979\\Desktop\\tp07 ahorcado\\AhorcadORT2-Moscovich-Sabathie-1\\AhorcadORT.csproj": {
+    "Z:\\AhorcadORT\\AhorcadORT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\49550979\\Desktop\\tp07 ahorcado\\AhorcadORT2-Moscovich-Sabathie-1\\AhorcadORT.csproj",
+        "projectUniqueName": "Z:\\AhorcadORT\\AhorcadORT.csproj",
         "projectName": "AhorcadORT",
-        "projectPath": "C:\\Users\\49550979\\Desktop\\tp07 ahorcado\\AhorcadORT2-Moscovich-Sabathie-1\\AhorcadORT.csproj",
-        "packagesPath": "C:\\Users\\49550979\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\49550979\\Desktop\\tp07 ahorcado\\AhorcadORT2-Moscovich-Sabathie-1\\obj\\",
+        "projectPath": "Z:\\AhorcadORT\\AhorcadORT.csproj",
+        "packagesPath": "C:\\Users\\48802641\\.nuget\\packages\\",
+        "outputPath": "Z:\\AhorcadORT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\49550979\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\48802641\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
