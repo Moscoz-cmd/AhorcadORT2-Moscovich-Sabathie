@@ -5,10 +5,4 @@ public class Palabra
 public string Texto;
 public int Dificultad;
 }
-
-
-
-
-
-
 }
